@@ -105,3 +105,5 @@ client.run(TOKEN, bot=False)
 
 # @ Made By INCOGNITO
 # @ Do Not Change Credit
+# @ GitHub : https://github.com/TFs-INCOGNITO
+# @ YouTube : https://www.youtube.com/c/IncognitoYTz
