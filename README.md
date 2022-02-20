@@ -14,10 +14,10 @@
 ## Text To Display On Your Activities
 ```
 {
-    "PLAYING": "Hello"
-    "LISTENING": "Hello"
-    "WATCHING": "Hello"
-    "STREAMING": "Hello"
+    "PLAYING": "Hello",
+    "LISTENING": "How",
+    "WATCHING": "Are",
+    "STREAMING": "You"
 }
 ```
 
