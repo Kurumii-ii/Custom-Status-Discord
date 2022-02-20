@@ -5,7 +5,7 @@ app = Flask('')
 
 @app.route('/')
 def main():
-    return "SinChan SelfBot 24/7"
+    return "Github : https://github.com/TFs-INCOGNITO"
 
 def run():
     app.run(host="0.0.0.0", port=8080)
