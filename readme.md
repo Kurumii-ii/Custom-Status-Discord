@@ -1,4 +1,4 @@
-##[ + ] Tutorial
+###[ + ] Tutorial
 
 ##LISTENING, PLAYING, WATCHING, STREAMING, ALL
 "activity": "LISTENING"
