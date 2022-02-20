@@ -98,6 +98,7 @@ elif activitys == "WATCHING":
 elif activitys == "ALL":
 	rands()
 
-#Login
+#Keep Alive 24/7
 keep_alive()
+#Login Into User Account
 client.run(TOKEN, bot=False)
