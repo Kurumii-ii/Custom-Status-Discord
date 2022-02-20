@@ -1,0 +1,10 @@
+{
+    "activity": "PLAYING",
+    "PLAYING": "Hello",
+    "LISTENING": "Hello",
+    "WATCHING": "Hello",
+    "STREAMING": "Hello",
+    "url": "https://www.twitch.tv/kyuubiexe",
+    "status": "dnd",
+    "second": 10
+}
