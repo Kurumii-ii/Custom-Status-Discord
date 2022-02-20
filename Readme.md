@@ -1,19 +1,19 @@
-[ + ] Tutorial
+##[ + ] Tutorial
 
-#LISTENING, PLAYING, WATCHING, STREAMING, ALL
+##LISTENING, PLAYING, WATCHING, STREAMING, ALL
 "activity": "LISTENING"
 
-#Text To Display On Your Activities
+##Text To Display On Your Activities
 "PLAYING": "Hello"
 "LISTENING": "Hello"
 "WATCHING": "Hello"
 "STREAMING": "Hello"
 
-#Twitch Url
-"url": "https://twitch.tv/kyuubiexe"
+##Twitch Url
+"url": "https://www.twitch.tv/kyuubiexe"
 
-#Status
+##Status
 "status": "idle"
 
-#Second For All Activities
+##Second For All Activities
 "second": 10
