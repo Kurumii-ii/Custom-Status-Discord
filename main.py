@@ -100,4 +100,4 @@ elif activitys == "ALL":
 
 #Login
 keep_alive()
-client.run("OTMxMzg0NTAxMjIzOTU2NTEw.YeDqRA.XQjGc_krJ5235WVN7wzKwdEsWKY", bot=False)
+client.run(TOKEN, bot=False)
