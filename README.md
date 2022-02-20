@@ -41,3 +41,11 @@
     "second": 10
 }
 ```
+
+## Run The Code
+```
+pip3 install -r requirements.txt
+```
+```
+python3 main.py
+```
